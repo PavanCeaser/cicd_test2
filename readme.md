@@ -4,7 +4,6 @@ Flask Task Management Application
 Overview  
 This project is a simple Flask-based Task Management Application designed for managing tasks. It provides a user-friendly interface to create, update, delete, and view tasks. The application is containerized using Docker and automated with a CI/CD pipeline using Jenkins for streamlined development, testing, and deployment processes.
 
----
 
 Features  
 - Add, update, delete, and view tasks.  
@@ -12,7 +11,6 @@ Features
 - Dockerized for easy deployment and scalability.  
 - CI/CD pipeline for automated build, test, and deployment.  
 
----
 
 Prerequisites  
 - Python installed (version 3.6+ recommended).  
@@ -102,6 +100,8 @@ Jenkins Build Success
 Docker Hub Image  
 ![Docker Hub Image](image-1.png)
 
+Project output
+![alt text](image-2.png)
 ---
 
 Technologies Used  
