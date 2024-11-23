@@ -17,3 +17,6 @@ $ docker run -p 5000:5000 cicd_test to start the container.
 Jenkins sucessfully build : 
 
 ![alt text](image.png)
+
+Docker hub 
+![alt text](image-1.png)
