@@ -1,20 +1,19 @@
 
 Creating a virtual environment
+$ virtualenv myenv 
 
-Run: virtualenv myenv 
+Activate virtualenv
+$ myenv\Scripts\activate
 
+To run 
+$ python app.py
 
-Activating the virtual environment
-Using Command Prompt:
-Navigate to the directory containing the virtual environment.
+#for docker
+1.Build
+$ docker build -t cicd_test . to build the Docker image.
+2.Run
+$ docker run -p 5000:5000 cicd_test to start the container.
 
-//to run
-1. activate
-Run: myenv\Scripts\activate
+Jenkins sucessfully build : 
 
-2.run
- : python app.py
-
-
-Run docker build -t cicd_test . to build the Docker image.
-Run docker run -p 5000:5000 cicd_test to start the container.
+![alt text](image.png)
