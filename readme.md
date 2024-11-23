@@ -88,8 +88,27 @@ Docker Hub
 - The Docker image is hosted on Docker Hub and can be pulled using the following command:  
   ```
   docker pull devpavanhl/cicd_test:latest
-  ```
+  '''
+  
 
+# Running the Application with Docker Compose
+Build and Start the Container
+
+'''
+docker-compose up --build
+'''
+Stop the Application
+
+'''
+$ docker-compose down
+'''
+Rebuild Without Cache (if needed)
+
+'''
+$ docker-compose build --no-cache
+'''
+Access the Application
+Visit http://localhost:5000 in your browser.
 ---
 
 Screenshots  
