@@ -2,7 +2,7 @@
 Flask Task Management Application
 
 Overview  
-This project is a simple Flask-based Task Management Application designed for managing tasks. It provides a user-friendly interface to create, update, delete, and view tasks. The application is containerized using Docker and automated with a CI/CD pipeline using Jenkins for streamlined development, testing, and deployment processes.
+This project is a simple Flask-based Task Management Application designed for managing tasks by using couchDb as database. It provides a user-friendly interface to create, update, delete, and view tasks. The application is containerized using Docker and automated with a CI/CD pipeline using Jenkins for streamlined development, testing, and deployment processes.
 
 
 Features  
