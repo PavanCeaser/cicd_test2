@@ -24,8 +24,8 @@ Setup Instructions
 
 1. Clone the Repository  
 ```
-git clone https://github.com/PavanCeaser/CICD_Test.git
-cd CICD_Test
+git clone https://github.com/PavanCeaser/cicd_test2.git
+cd cicd_test
 ```
 
 2. Create a Virtual Environment  
