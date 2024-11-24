@@ -24,7 +24,7 @@ Setup Instructions
 
 1. Clone the Repository  
 ```
-git clone https://github.com/PavanCeaser/CICD_Test.git
+git clone https://github.com/PavanCeaser/cicd_test2.git
 cd CICD_Test
 ```
 
